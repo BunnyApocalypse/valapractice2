@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8">
+<!-- Copyright 2018 Chris King <bunnyapocalypse@protonmail.com> -->
+<component type="desktop">
+  <id>com.github.bunnyapocalypse.valapractice2</id>
+  <metadata_license>CC0</metadata_license>
+  <name>Vala Practice v2</name>
+  <summary>Practicing Vala makes me holla!</summary>
+  <description>
+    <p>Do not use this, its just for practice</p>
+  </description>
+</component>
