@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Hello Again
+GenericName=Hello World App
+Comment=Proves that we can use Vala and Gtk
+Categories=Education;Utility;
+Exec=com.github.bunnyapocalypse.valapractice2
+Icon=application-default-icon
+Terminal=false
+Type=Application
+Keywords=Hello;World;Example;Learning;

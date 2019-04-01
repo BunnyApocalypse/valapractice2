@@ -22,7 +22,7 @@ public class MyApp : Gtk.Application {
     
     public MyApp () {
         Object (
-            application_id: "com.github.bunnyapocalypse.valapractice",
+            application_id: "com.github.bunnyapocalypse.valapractice2",
             flags: ApplicationFlags.FLAGS_NONE
         );
     }
