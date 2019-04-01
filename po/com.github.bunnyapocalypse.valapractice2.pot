@@ -1,0 +1,58 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the com.github.bunnyapocalypse.valapractice2 package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: com.github.bunnyapocalypse.valapractice2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-04-01 18:07-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/Application.vala:32
+msgid "Hello Again World!"
+msgstr ""
+
+#: src/Application.vala:36
+msgid "Hello Again :)"
+msgstr ""
+
+#: data/com.github.bunnyapocalypse.valapractice2.desktop.in:3
+msgid "Hello Again"
+msgstr ""
+
+#: data/com.github.bunnyapocalypse.valapractice2.desktop.in:4
+msgid "Hello World App"
+msgstr ""
+
+#: data/com.github.bunnyapocalypse.valapractice2.desktop.in:5
+msgid "Proves that we can use Vala and Gtk"
+msgstr ""
+
+#: data/com.github.bunnyapocalypse.valapractice2.desktop.in:8
+msgid "application-default-icon"
+msgstr ""
+
+#: data/com.github.bunnyapocalypse.valapractice2.desktop.in:11
+msgid "Hello;World;Example;Learning;"
+msgstr ""
+
+#: data/com.github.bunnyapocalypse.valapractice2.appdata.xml.in:6
+msgid "Vala Practice v2"
+msgstr ""
+
+#: data/com.github.bunnyapocalypse.valapractice2.appdata.xml.in:7
+msgid "Practicing Vala makes me holla!"
+msgstr ""
+
+#: data/com.github.bunnyapocalypse.valapractice2.appdata.xml.in:9
+msgid "Do not use this, its just for practice"
+msgstr ""
